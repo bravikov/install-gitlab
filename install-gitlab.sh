@@ -1,6 +1,7 @@
 #!/bin/bash -e
 
 # Gitlab Install Script for Ubuntu and Debian
+# https://github.com/bravikov/gitlab-install
 
 # 1. Install and configure the necessary dependencies
 sudo apt-get install curl openssh-server ca-certificates postfix
